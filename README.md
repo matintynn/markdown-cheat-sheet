@@ -1,3 +1,6 @@
+<!-- Title -->
+</br><span style="color:#6246ea; font-weight: bold; text-align: center; font-size: 1.5em">MARKDOWN CHEAT SHEET</span></br></br>
+
 <!-- Image -->
 </br><span style="color:#6246ea; font-weight: bold">IMAGE</span></br></br>
 ![Markdown Logo](https://markdown-here.com/img/icon256.png)
